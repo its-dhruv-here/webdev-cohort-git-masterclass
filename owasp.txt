@@ -1,1 +1,1 @@
-this is owasp society based on cybersecurity.
+this is owasp society based on cybersecurity and teaches other domains as well.
